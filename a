@@ -1,0 +1,11 @@
+--2020-10-18 16:03:50--  https://cloud.githubusercontent.com/assets/19320102/26750556/af503ee2-4858-11e7-811b-30367691d912.png
+正在解析主机 cloud.githubusercontent.com (cloud.githubusercontent.com)... 151.101.108.133
+正在连接 cloud.githubusercontent.com (cloud.githubusercontent.com)|151.101.108.133|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 200 OK
+长度：48116 (47K) [image/png]
+正在保存至: “af503ee2-4858-11e7-811b-30367691d912.png”
+
+     0K .......... .......... .......... .......... ......    100%  136K=0.3s
+
+2020-10-18 16:03:51 (136 KB/s) - 已保存 “af503ee2-4858-11e7-811b-30367691d912.png” [48116/48116])
+
